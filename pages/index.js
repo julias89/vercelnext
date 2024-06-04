@@ -27,6 +27,9 @@ export default function Home() {
         <p>
           Deutschland erreicht im <strong>World-Happiness-Index</strong> einen Score von 6,892, was auf ein relativ hohes Maß an Lebenszufriedenheit hindeutet. Länder wie Finnland, Dänemark und Norwegen, die hohe Werte von über 7,5 aufweisen, können als besonders attraktive Workation-Ziele für diejenigen gelten, die Wert auf ein glückliches und in der Gesamtheit ausgeglichenes Umfeld legen.
         </p>
+        <p>
+          test
+        </p>
         <Image
               className={styles.logo}
               src="/wohnen-arbeiten-laender.jpg"
